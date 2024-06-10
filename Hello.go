@@ -6,6 +6,6 @@ import (
 
 func main() {
 	fmt.Println("Starting Webserver")
-	Handlers.startHandlers()
+	handlers.startHandlers()
 
 }
