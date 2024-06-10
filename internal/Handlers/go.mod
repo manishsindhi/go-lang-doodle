@@ -1,4 +1,4 @@
-module handlers
+module github.com/manishsindhi/go-lang-doodle/internal/Handlers
 
 go 1.22.3
 
