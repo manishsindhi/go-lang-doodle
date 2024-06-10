@@ -1,4 +1,4 @@
-module example/go-lang-doodle
+module github.com/manishsindhi/go-lang-doodle
 
 go 1.22.3
 
